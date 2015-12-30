@@ -1,0 +1,11 @@
+/**
+	 * 8 ball problem. if given 8 balls with only one ball being a lighter
+	 * weight and all other 7 being the same weight and given a scale, how will
+	 * you find the light weight ball. do this in minimum number of steps
+	 */
+
+	
+	/**
+	 * 2
+	 * 6,2
+	 */
