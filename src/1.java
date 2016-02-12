@@ -18,9 +18,6 @@ for i= 1 to N
 The downside of this approach is if a[i]=0 you get an exception.
 */
 
-
-//Dynamic Programming:
-
 void solution(int[] input) {
 
 		int n = input.length, i, j;
